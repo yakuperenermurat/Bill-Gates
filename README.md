@@ -8,7 +8,7 @@ The goal of this application is to provide a fun and educational experience, all
 
 ## Live Demo
 
-You can explore the project online through this [Demo Link](https://your-live-demo-link).
+You can explore the project online through this [Demo Link](https://polite-boba-07ba2a.netlify.app).
 
 ## Features
 
@@ -31,5 +31,5 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-link>
+   git clone <https://github.com/yakuperenermurat/Bill-Gates.git>
 # Bill-Gates
